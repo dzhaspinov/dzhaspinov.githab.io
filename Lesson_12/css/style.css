@@ -1,0 +1,73 @@
+body{
+	font-family: Tahoma, sans-serif;
+	color: #333;
+}
+.title{
+	font-size: 24px;
+	text-align: center;
+	margin: 120px auto 80px;
+}
+.title span{
+	display: block;	
+	padding-bottom: 10px;
+}
+.title strong{
+	text-transform: uppercase;	
+}
+.video{
+	margin-bottom: 30px;
+}
+.form{
+	border:5px solid #472cc3;
+	height: 310px;
+	padding: 25px 20px;
+	text-align: center;
+}
+.form p{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 30px;
+}
+.form input{
+	height: 50px;
+	border-radius: 0px;
+	margin-bottom: 11px;
+}
+.btn{
+	height: 60px;
+	border-radius: 0px;
+	background-color: #472cc3;
+}
+.adv-title{
+	margin-top: 90px;
+}
+h2{
+	font-size: 24px;
+	font-weight: 900;
+	text-transform: uppercase;
+	text-align: center;
+}
+.adv-item{
+	text-align: center;
+	margin-top: 70px;
+	line-height: 1;
+	font-size: 16px;
+	font-weight: 900;
+}
+.adv-item p{
+	margin-top: 20px;	
+}
+.adv-btn{
+	text-align: center;
+	margin:90px auto;
+	width: 100%;
+}
+.adv-btn button{
+	width:100%;
+}
+.cliet-item{
+	margin-top: 50px;
+}
+.cliet-item img{
+	margin-bottom: 30px;
+}
